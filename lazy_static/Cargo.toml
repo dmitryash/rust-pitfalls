@@ -1,0 +1,13 @@
+[package]
+name = "lazy_static_pitfall"
+version = "0.0.0"
+edition = "2021"
+
+[[bin]]
+name = "lazy_static_pitfall"
+path = "main.rs"
+test = false
+bench = false
+
+[dependencies]
+lazy_static ="1.4"

@@ -1,2 +1,3 @@
-# lazy_static_is_bad
-Rust lazy_static is bad comparing to C++
+# Some Rust pitfalls and problems
+
+Rust is good but not ideal
